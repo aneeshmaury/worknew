@@ -1,0 +1,14 @@
+#first_item{
+ font-size: 17px;
+ border-top: none;
+ border-left:none;
+ border-right: none;
+ padding: 7px;
+ background-color:transparent;
+}
+
+.main{
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow with 10px blur */
+    padding: 20px 40px 20px 20px;
+}
